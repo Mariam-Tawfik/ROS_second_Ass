@@ -1,0 +1,5 @@
+<launch>
+<node name="pose_sub" pkg="topic_subscriber_pkg" type="pose_topic_subscriber" output="screen" />
+
+
+</launch>

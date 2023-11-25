@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/mariam/catkin_ws/src/chatter_pkg/include/**",
+        "/home/mariam/catkin_ws/src/divider_pkg/include/**",
+        "/home/mariam/catkin_ws/src/image_viewer/include/**",
+        "/home/mariam/catkin_ws/src/topic_subscriber_pkg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
